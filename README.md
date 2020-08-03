@@ -26,5 +26,22 @@ MAPE is the measure of prediction accuracy of a forecasting method in statistics
 R-Squared Score is a statistic used in the context of statistical models whose main purpose is either the prediction of future outcomes or the testing of hypotheses, on the basis of other related information.
 Ideal Value of R2 Score= +1 or -1
 
+# Data
+CottonData.csv is the modified and cleansed data.
+
 # Model
 model.pckl is the weighted trained model.
+
+# Technology Stack
+Machine Learning, Deep Learning, Facebook Prophet, HTML, CSS, Javascript, Flask, SQLAlchemy  
+
+# Glimpse
+Screen takes were added into the repo
+
+# Data
+- 14 Unique States
+- 163 Unique Districts
+- 702 Unique Markets
+
+# Demo Link
+https://drive.google.com/drive/folders/1VHyg3kw2dyOKr6W2nm_pjcg7dL15dV5j?usp=sharing
